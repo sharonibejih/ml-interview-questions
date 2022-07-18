@@ -1,1 +1,4 @@
-
+- Share your screen and walk us through your most recent [deep learning] project. And if you collaborated with a team tell us the role you played.
+- Let's assume you are given a new project, tell us your development process.
+- Where do you see yourself in 5 years' time?
+- What is your best machine learning algorithm and why?
